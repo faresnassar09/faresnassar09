@@ -1,6 +1,6 @@
 <div align="center">
 
-# فارس أحمد &nbsp;·&nbsp; Fares Ahmed
+# &nbsp;·&nbsp; Fares Ahmed
 
 ### I build financial software with Laravel
 #### ERP systems · Double-entry accounting engines · SaaS backends that handle money correctly
